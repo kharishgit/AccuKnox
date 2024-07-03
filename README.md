@@ -22,7 +22,7 @@ A Django Rest Framework-based social networking API with user authentication, fr
 
 1. **Clone the repository:**
    
-   `git clone https://github.com/kharishgit/socialmedia.git`
+   `git clone https://github.com/kharishgit/AccuKnox.git`
    `cd social_network`
 
 
@@ -34,7 +34,7 @@ A Django Rest Framework-based social networking API with user authentication, fr
 
 3. **Database**
     
-    The default database  sqlite(db.sqlite) is also included in the repository along with migrations.It comes with sample data inputs. The superuser name  is `admin@gmail.com` and password is `admin`
+    The default database  sqlite(db.sqlite) is also included in the repository along with migrations.You Don't have to run migration commands.It comes with sample data inputs. The superuser name  is `admin@gmail.com` and password is `admin`
     It also contains other users `harish@gmail.com` and password `harish` , `kumari@gmail.com` and   password `kumari` ,`haridass@gmail.com` and password `haridass` etc.
     
     The new users can be created using `/social/signup` The username,email and password is to be given.The email is case insensitive while username is case sensitive.
