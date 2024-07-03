@@ -23,7 +23,7 @@ A Django Rest Framework-based social networking API with user authentication, fr
 1. **Clone the repository:**
    
    `git clone https://github.com/kharishgit/AccuKnox.git`
-   `cd social_network`
+    Then check in to  `cd AccuKnox` and then `cd social_network`
 
 
  **DOCKER SETUP - Run this application using Docker**
